@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Squat and Walk",
+    "time": "45 seconds",
+    "thumbnail": "assets/image/Squat and Walk.jpg",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
+  },
+  {
+    "title": "Plie Squat and Heel Raises",
+    "time": "55 seconds",
+    "thumbnail": "assets/image/Plie Squat and Heel Raises.jpg",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4"
+  },
+  {
+    "title": "Squats",
+    "time": "45 seconds",
+    "thumbnail": "assets/image/Squats.jpg",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
+  },
+  {
+    "title": "Lunges",
+    "time": "40 seconds",
+    "thumbnail": "assets/image/Lunges.jpg",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4"
+  },
+  {
+    "title": "Plank",
+    "time": "60 seconds",
+    "thumbnail": "assets/image/Plank.jpg",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-15s.mp4"
+  }
+]
